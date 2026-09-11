@@ -1,0 +1,6 @@
+{
+  "name": "NER SmartMove AI",
+  "description": "AI-powered logistics, passenger accessibility, route-risk and emergency movement intelligence platform for Northeast India.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
